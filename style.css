@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'MyCustomFont1';
+  src: url('Micky\ Bonn\ Clean\ TTF.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'MyCustomFont1', MickeyBonn; 
+}
+@font-face {
+  font-family: 'MyCustomFont3';
+  src: url('Lovely\ Darling.otf') format('Opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'MyCustomFont3', LovelyDarling; 
+}
+@font-face {
+  font-family: 'MyCustomFont2';
+  src: url('Super\ Cottage\ 2.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'MyCustomFont2', SuperCottage;
+}
+body{
+  background-color: #98b9cd;
